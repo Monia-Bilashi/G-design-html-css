@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin: 100px auto;
+}
+
+table,
+tr,
+td {
+    /* border: 1px solid black; */
+    border-collapse: collapse;
+}
+
+table {
+    width: 30%;
+    margin: auto;
+}
+
+tr {
+    height: 40px;
+}
+
+td {
+    width: 5%
+}
+
+
+/* .border-none {
+    border: 1px solid white;
+} */
+
+.row-span-1 {
+    background-color: rgb(91, 144, 144);
+    border: 2px solid black;
+}
+
+.col-span-1 {
+    background-color: rgb(91, 91, 194);
+    border: 2px solid black;
+}
+
+.col-row-1 {
+    background-color: rgb(135, 72, 230);
+    border: 2px solid black;
+}
+
+.row-span-2 {
+    background-color: rgb(173, 27, 226);
+    border: 2px solid black;
+}
+
+.row-span-3 {
+    background-color: rgb(112, 214, 194);
+    border: 2px solid black;
+}
+
+.col-span-2 {
+    background-color: rgb(41, 93, 149);
+    border: 2px solid black;
+}
+
+.col-color-1 {
+    background-color: hotpink;
+    border: 2px solid black;
+}
+
+.col-color-2 {
+    background-color: aqua;
+    border: 2px solid black;
+}
+
+.col-span-3 {
+    background-color: rgb(104, 39, 127);
+    border: 2px solid black;
+}
+
+.col-span-4 {
+    background-color: rgb(103, 34, 65);
+    border: 2px solid black;
+}
+
+.col-row-2 {
+    background-color: rgb(80, 140, 60);
+    border: 2px solid black;
+}
+
+.col-row-3 {
+    background-color: rgb(149, 229, 122);
+    border: 2px solid black;
+}
+
+.col-span-5 {
+    background-color: red;
+    border: 2px solid black;
+}
+
+.row-span-4 {
+    background-color: rgb(188, 148, 19);
+    border: 2px solid black;
+}
+
+.row-span-5 {
+    background-color: rgb(188, 89, 19);
+    border: 2px solid black;
+}
+
+.col-color-3 {
+    background-color: rgb(182, 188, 19);
+    border: 2px solid black;
+}
+
+.col-span-6 {
+    background-color: rgb(142, 147, 17);
+    border: 2px solid black;
+}
+
+.col-color-4 {
+    background-color: rgb(133, 176, 87);
+    border: 2px solid black;
+}
+
+.col-span-7 {
+    background-color: rgb(230, 239, 112);
+    border: 2px solid black;
+}
+
+.col-span-8 {
+    background-color: goldenrod;
+    border: 2px solid black;
+}
