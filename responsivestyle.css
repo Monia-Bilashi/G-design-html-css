@@ -1,0 +1,12 @@
+@media screen and (max-width: 600px) {
+    table {
+        width: 50%;
+        margin: auto;
+    }
+    tr {
+        height: 25px;
+    }
+    td {
+        width: 10%
+    }
+}
